@@ -1,0 +1,32 @@
+{
+  "course":
+  [
+    {
+      "name": "Python",
+      "description": "Nisbatan qiyin",
+      "modules_count": 8,
+      "price": 90,
+      "status": "active",
+      "active_students": [],
+      "create_date": "2023-05-09"
+    },
+    {
+      "name": "Bootcamp",
+      "description": "Qiyin",
+      "modules_count,": 8,
+      "price": 100,
+      "status": "active",
+      "active_students": [],
+      "create_date": "2021-12-12"
+    },
+    {
+      "name": "C#",
+      "description": "Qulay",
+      "modules_count": 8,
+      "price": 80,
+      "status": "draft",
+      "active_students": [],
+      "create_date": "2024-01-05"
+    }
+  ]
+}

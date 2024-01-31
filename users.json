@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "first_name": "Elshodbek",
+            "last_name": "Odilov",
+            "username": "defer",
+            "password": "regrerg",
+            "status": "0",
+            "create_date": "15-03-2021"
+        },
+        {
+            "first_name": "Sherzodjon",
+            "last_name": "Mirzaqulov",
+            "username": "defer",
+            "password": "regrerg",
+            "status": "0",
+            "create_date": "25-11-2022"
+        },
+        {
+            "first_name": "Samandar",
+            "last_name": "Abduraxmonov",
+            "username": "Abduraxmonov_Samandar",
+            "password": "samandarr1234",
+            "status": "1",
+            "create_date": "10-08-2023"
+        }
+    ]
+}
